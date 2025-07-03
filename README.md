@@ -19,7 +19,5 @@ Login using only password
 ##Selenium test files
 Located in src/test/java/:
 
-git add README.md
-git commit -m "Add README with test documenttion"
-git push origin main
+
 
